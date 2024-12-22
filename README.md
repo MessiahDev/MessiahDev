@@ -30,9 +30,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://t.me/Messias_Alex" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-     <a href="https://wa.me/5521979167300" target="_blank">
+     <a href="https://wa.me/5521998138903" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-    <a href="https://instagram.com/messias.allex?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
+    <a href="https://instagram.com/alexmessias18?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:alexmessias_18@yahoo.com.br">
     <img src="https://img.shields.io/badge/-yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
