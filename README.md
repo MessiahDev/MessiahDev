@@ -1,6 +1,6 @@
 ### Olá, Seja Bem-Vindo(a). 
 -💻Desenvolvedor Full Stack.<br>
--📚 Análise e Desenvolvimento de Sistemas Candido Mendes<br> </p>
+-📚 Análise e Desenvolvimento de Sistemas Candido | Mendes<br> </p>
 
 <div>
   <a href="https://github.com/MessiahDev">
