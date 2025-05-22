@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/MessiahDev" target="_blank" rel="noopener noreferrer">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MessiahDev&show_icons=true&theme=dark&count_private=true&hide_title=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MessiahDev&rank_icon=percentile&show_icons=true&theme=dark&count_private=true&hide_title=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MessiahDev&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </div>
