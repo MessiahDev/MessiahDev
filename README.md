@@ -14,7 +14,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
+<div style="display: block"><br>
   <img align="center" alt="C#" height="40" width="50" src="https://www.cdnlogo.com/logos/c/27/c.svg" title="C# (.NET)"/>
   <img align="center" alt=".NET" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET"/>
   <img align="center" alt="Vue.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js"/>
